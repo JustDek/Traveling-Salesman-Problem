@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BinaryOperators
+namespace TSPProblem
 {
     class Program
     {
